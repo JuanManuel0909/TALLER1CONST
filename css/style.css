@@ -3,21 +3,21 @@ body{
     align-items: center ;
 }
 .titulo{
-    background-color: rgb(39,59, 71);
+    background-color: #121f3d;
     color: #98CA3F;
     border-radius: 3px;
     text-align: center;
     font-family: 'Silkscreen', cursive;
 }
 #contenedor{
-    background-color: rgb(39,59, 71);
+    background-color: #121f3d;
     display: flex;
     justify-content: center;
     border-radius: 3px;
 }
 .tarjeta{
     text-align: center;
-    background-color: #636c74;
+    background-color: #24385b;
     margin: 20px;
     width: 500px;
     height: 600px;
@@ -52,5 +52,5 @@ a{
 
 a:hover{
    color:#769b32;
-   background-color: black;
+   background-color: #121f3d;
 }
